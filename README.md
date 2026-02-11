@@ -1,48 +1,52 @@
-# Hi! 👋
+Hi, I'm Nathanael CP
 
-Nama saya **Nathanael CP**.<br>
-Seorang yang sedang mendalami **Website Development** dan bersemangat dalam mempelajari hal-hal baru di dunia teknologi.
+I am a Website and Software Developer focused on building practical, scalable solutions. Currently studying at Soegijapranata Catholic University and participating in the Bangkit Mobile Development Program. I continuously develop my skills through real-world projects and industry experience.
 
-💻 Saat ini saya masih berkuliah di **Soegijapranata Catholic University** dan mengikuti Program **Bangkit Mobile Development**.
+Core Skills & Technologies
 
----
+Backend & Web Development
+1. Laravel
+2. Node.js & Express
+3. PHP
+4. MySQL / Database Design
+5. SDLC Prototyping Methodology
 
-## ⚡ Skills & Technologies
-Saya tidak buruk dalam beberapa bahasa pemrograman dan framework berikut:
+Programming Languages
+1. PHP
+2. JavaScript
+3. Python
+4. C
+5. Kotlin
 
-  <!-- Laravel -->
-  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="30px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
-  
-  <!-- Python -->
-  <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="30px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
-  
-  <!-- PHP -->
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
-  
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" /></a>
-  
-  <!-- C -->
-  <a href="#"><img align="left" alt="C" title="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
+Other Technical Areas
+1. IoT Project Development
+2. Web System Testing
+3. Git Version Control
+4. Docker Containerization
+5. Full-stack Web Application Development
 
-<br><br>
+Professional Experience
 
----
+I have one year of internship experience at Polytron as a Human Resource System Analyst and Web Developer. Key contributions:
+1. Developed and tested a web-based Overtime Transaction System using Node.js 
+2. Applied SDLC Prototyping methodology as part of Software Engineering research work
+3. Performed comprehensive system and web testing
+4. Used Git for version control and Docker for containerized deployment
+5. Acted as a liaison between users and stakeholders to translate business requirements into technical specifications
 
-## 📊 My GitHub Stats
+Freelance Work
 
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
-</p>
+I am available for freelance and project-based work in:
+1. Web application development (Laravel / Node.js)
+2. Backend systems
+3. Web Scraping
+Project discussions should include clear requirements, scope, and expected deliverables to ensure accurate execution.
+Built multiple full-stack web and IoT-based solutions aligned with field requirements
 
----
+📊 GitHub Statistics
+<p align="left"> <a href="https://github.com/penuliscode"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/> </a> </p>
+📫 Contact
 
-## 📫 Contact Me
-- **Instagram**: [@nathanaellprasetyo](https://www.instagram.com/nathanaellprasetyo/) <br>
-
----
-
-Thank you for visiting my GitHub profile! 😄
+Instagram  : @nathann_ang
+Email      : nathanaelchrystianprasetyo@gmail.com
+No.        : 088806893977
